@@ -1,2 +1,2 @@
-# interstate-conflict-modelling
+# Militarized Interstate Conflict Modelling
 Case study with HCSS
